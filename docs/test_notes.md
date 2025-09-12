@@ -9,3 +9,6 @@
 
 ## 2025-09-12 - Migrate from Aurduino UNO to makeblock ide
 - Issues persist so I will migrate to makeblcok ide to program makeblock car
+
+## 2025-09-12 - Run into issue with makeblock car limitations 
+- I run into limits of makeblock and how to integrate it with pi 5, decide to merge from makeblcock to assembled car from parts (odered) and one virtuall car. 
