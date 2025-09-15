@@ -7,7 +7,7 @@ This document tracks all hardware components used for building the Smart Factory
 ## 1. Core Electronics
 | Component | Qty | Purpose | Link |
 |------------|-----|---------|------|
-| Raspberry Pi 5 | 1 | Central factory hub, MQTT broker, dashboard | [Raspberry Pi Store](https://www.raspberrypi.com/products/raspberry-pi-5/) |
+| mini-pc | 1 | Central factory hub, MQTT broker, dashboard | [Amazon](#) |
 | Raspberry Pi Pico W | 1 | Wi-Fi controller for robot | [Amazon](#) |
 | GeeekPi UPS HAT | 1 | Power supply for Pico W + sensors | [Amazon](#) |
 | 18650 Li-ion battery | 1 | UPS HAT power source | [Amazon](#) |
