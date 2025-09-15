@@ -4,7 +4,7 @@ A scalable **factory automation system** demonstrating two Autonomous Guided Veh
 Designed to mirror **Industry 4.0 concepts** like those used in modern smart manufacturing (e.g., Foxconn).
 
 ## System Architecture
-- **Pi 5 Hub**: Runs MQTT broker and control dashboard.
+- **mini-pc with kali-linux**: Runs MQTT broker and control dashboard.
 - **Pico W Robot**: Wi-Fi controlled robot with line following and obstacle detection.
 - **Simulated Robot**: Software-only process for testing scalability.
 
