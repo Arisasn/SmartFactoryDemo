@@ -12,3 +12,7 @@
 
 ## 2025-09-12 - Run into issue with makeblock car limitations 
 - I run into limits of makeblock and how to integrate it with pi 5, decide to merge from makeblcock to assembled car from parts (odered) and one virtuall car. 
+
+## 2025-09-16 - Decdie tp fully switch to virtual
+- Missing parts, parts not alighn - decide to be fully virtual instead.
+- I plan to work of physcial hardware part later
