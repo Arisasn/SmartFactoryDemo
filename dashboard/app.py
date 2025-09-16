@@ -43,10 +43,17 @@ button { margin-right:6px; }
     <h3>Controls</h3>
     <form method="post" action="/cmd" style="margin-bottom:8px">
       <label>Car ID: <input name="car" value="car1" style="width:100px"></label><br><br>
+      <div style="margin-bottom:6px"><strong>Manual:</strong></div>
       <button name="action" value="F">Forward</button>
       <button name="action" value="L">Left</button>
       <button name="action" value="R">Right</button>
       <button name="action" value="S">Stop</button>
+      <button name="action" value="MAN">Manual Mode</button>
+      <br><br>
+      <div style="margin-bottom:6px"><strong>Auto:</strong></div>
+      <button name="action" value="A1">Circle</button>
+      <button name="action" value="A2">Square</button>
+      <button name="action" value="A3">Avoid</button>
     </form>
     <div>
       <button onclick="spawn('car1',120,140,0)">Spawn car1</button>
