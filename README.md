@@ -1,14 +1,9 @@
-# Smart Factory AGV Network
+# Smart Factory AGV Network (Virtual)
 
-A scalable **factory automation system** demonstrating two Autonomous Guided Vehicles (AGVs), both simulated.  
-Designed to mirror **Industry 4.0 concepts** like those used in modern smart manufacturing (e.g., Foxconn).
+This project simulates a modrn factory network of autonomous guided vehicles (AGVs). Originally planned with physcial robots, it has been fully migrated to a **virtual system** to allow rapid development, scaling, and clear demonstration of smart factory concepts.
 
-## System Architecture
-- **mini-pc with kali-linux**: Runs MQTT broker and control dashboard.
-- **Simulated Robot**: Software-only process for testing scalability.
-
-## Goals
-- Live dashboard with telemetry from multiple robots.
-- Autonomous line-following and obstacle detection.
-- Demo video showing virtual robots working together.
-
+## Features
+- MQTT-based communication between hub and AGVs
+- Flask dashboard for real-time control and telemetry
+- Easily scale to 10+ virtual robots
+- Pure Python implementation - no hardware required
